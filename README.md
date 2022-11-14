@@ -1,5 +1,5 @@
 # DS-Aprendizado-atividade
-Atividade de Data Science relativa a Aprendizado não Supervisionado
+Atividade de Data Science relativa a Aprendizado não Supervisionado utilizando o mesmo dataset da atividade anterior (Perfis do Sistema de Saúde de Curitiba baseados nos atendimentos Odontológicos)
 
 Links para o Dataset base direto do site da prefeitura de Curitiba:
 ```
